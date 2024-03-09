@@ -11,16 +11,17 @@ https://github.com/preethineelakandan/project-/assets/144642796/9a3a9304-d88f-48
 This project aims to develop a machine learning model for the classification of orthopedic conditions based on medical data. The goal of this project is to develop a model that can  classify orthopedic conditions based on input data.
 
 **Table of Contents**
+  
+- [Introduction](#introduction)
+- [Requirements and Tools](#requirements-tools)
+- [Dataset](#dataset)
+- [Usage](#usage)
+- [Data Preparation](#data-preparation)
+- [Model Training](#model-training)
+- [Model Evaluation](#model-evaluation)
+- [Prediction](#prediction)
+- [Disclaimer](#disclaimer)
 
-- Introduction
-- Requirements tools
-- Dataset
-- Usage
-- Data Preparation
-- Model Training
-- Model Evaluation
-- Prediction
-- Disclaimer
 
 **Introduction**
 
