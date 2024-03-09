@@ -3,6 +3,9 @@
 
 **demo vedio fo orthopedic classification**
 
+https://github.com/preethineelakandan/project-/assets/144642796/9a3a9304-d88f-4876-b6eb-0f5493fd3650
+
+
 
 **Overview**
 This project aims to develop a machine learning model for the classification of orthopedic conditions based on medical data. The goal of this project is to develop a model that can  classify orthopedic conditions based on input data.
