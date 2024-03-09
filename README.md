@@ -10,42 +10,42 @@ https://github.com/preethineelakandan/project-/assets/144642796/9a3a9304-d88f-48
 **Overview**
 This project aims to develop a machine learning model for the classification of orthopedic conditions based on medical data. The goal of this project is to develop a model that can  classify orthopedic conditions based on input data.
 
-**Table of Contents**
+##**Table of Contents**
   
 - [Introduction](#introduction)
 - [Requirements and Tools](#requirements-tools)
 - [Dataset](#dataset)
 - [Usage](#usage)
-- [Data Preparation](#data-preparation)
+- [Data Preprocessing](#data-Preprocessing)
 - [Model Training](#model-training)
 - [Model Evaluation](#model-evaluation)
 - [Prediction](#prediction)
 - [Disclaimer](#disclaimer)
 
 
-**Introduction**
+###**Introduction**
 
 Welcome to the exciting world of orthopedic classification using machine learning! In this project, we're diving into a fascinating journey of using computer algorithms and categorize orthopedic conditions more efficiently.Orthopedic conditions involve problems with bones, joints, and muscles. Identifying and classifying these issues accurately is crucial for giving patients the right treatment. Traditional methods can be slow and might vary between different doctors. Machine learning can make this process faster and more reliable.
 
-**Requirements tools**
+###**Requirements and tools**
 
 - Python 3.x
 - Scikit-learn
 - NumPy
 - Matplotlib
 - Pandas
-- 
-**Dataset**
+  
+###**Dataset**
   
 The dataset used for training and testing the model should include a diverse range of orthopedic data, labeled with corresponding classes. Ensure the dataset is preprocessed, and the data are appropriately formatted for input into the model.
 
 [dataset] : ("https://www.kaggle.com/datasets/abdelrahmanmkhalil/orthopedic")
 
-**Usage**
+###**Usage**
 
  Dive into the accompanying Jupyter Notebook or Python scripts for a comprehensive, user-friendly walkthrough on leveraging the orthopedic classification models. Learn to effortlessly load trained models, perform data preprocessing, and seamlessly generate predictions for enhanced usability.
  
-**Data Preparation:**
+###**Data Preprocessing:**
 
 - Data Splitting:
    The initial step involved splitting the dataset into training and testing sets to facilitate model training and evaluation.
@@ -58,7 +58,7 @@ The dataset used for training and testing the model should include a diverse ran
 - Concatenation:
     The encoded categorical data and scaled numerical data were then combined or concatenated to form a unified dataset. This consolidated dataset serves as the input for subsequent model training, seamlessly integrating both types of features.
   
-**Model Training:**
+###**Model Training:**
 
 During the model training phase for orthopedic classification, various machine learning algorithms were employed to develop predictive models. Each algorithm brings its unique strengths and characteristics to the task. Here's an overview of the models used
       
@@ -71,7 +71,7 @@ During the model training phase for orthopedic classification, various machine l
 - Support Vector Classifier (SVC):
    Support Vector Classifier determines an optimal hyperplane during training, enabling effective separation of orthopedic classes in the feature space.
 
-**Model Evaluation:**
+###**Model Evaluation:**
 
 - Metric Selection:
 Chose accuracy as metrics to assess orthopedic classification model performance.
@@ -80,11 +80,11 @@ Systematically compared Decision Tree, RandomForest, KNeighbors, and SVC models 
 - Insights & Adjustments:
 Gained insights into model generalization and made adjustments to enhance performance, ensuring optimized orthopedic classification models.
 
-**Prediction:**
+###**Prediction:**
 
    Use the trained model to make predictions on new data
    
-**Disclaimer**
+###**Disclaimer**
 
 This model is not a substitute for professional medical advice, diagnosis, or treatment. Always consult with a qualified healthcare professional for medical concerns.
 
