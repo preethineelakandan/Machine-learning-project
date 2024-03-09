@@ -1,7 +1,11 @@
 **Orthopedic Classification with Machine Learning**
 ================================
-**Overview**
 
+**demo vedio fo orthopedic classification**
+
+![Untitled video - Made with Clipchamp](https://github.com/preethineelakandan/project-/assets/144642796/809a3c30-0616-4c38-bb60-0634c799e4bf)
+
+**Overview**
 This project aims to develop a machine learning model for the classification of orthopedic conditions based on medical data. The goal of this project is to develop a model that can  classify orthopedic conditions based on input data.
 
 **Table of Contents**
