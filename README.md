@@ -1,7 +1,7 @@
 **Orthopedic Classification with Machine Learning**
 ================================
 
-**demo vedio for orthopedic classification**
+**Video Demonstration for orthopedic classification**
 
 https://github.com/preethineelakandan/project-/assets/144642796/9a3a9304-d88f-4876-b6eb-0f5493fd3650
 
