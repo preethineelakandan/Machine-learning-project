@@ -29,7 +29,7 @@ Welcome to the exciting world of orthopedic classification using machine learnin
 
 ###**Requirements and tools**
 
-- Python 3.x
+- Python 3.11
 - Scikit-learn
 - NumPy
 - Matplotlib
