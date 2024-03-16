@@ -3,7 +3,7 @@
 
 **Video Demonstration for orthopedic classification**
 
-https://github.com/preethineelakandan/project-/assets/144642796/9a3a9304-d88f-4876-b6eb-0f5493fd3650
+https://github.com/preethineelakandan/Machine-learning-project/assets/144642796/7021b129-9d9f-40cb-8b98-187281b1dddb
 
 
 
@@ -48,20 +48,22 @@ The dataset used for training and testing the model should include a diverse ran
 ###**Data Preprocessing:**
 
 - Data Splitting:
-   The initial step involved splitting the dataset into training and testing sets to facilitate model training and evaluation.
-- Feature Separation:
-   The dataset was then partitioned into two distinct categories: numeric columns and categorical columns. This separation aimed to address the diverse nature of the data.
-- Encoding Categorical Data:
-    The categorical columns were subjected to encoding to convert them into a numerical format suitable for machine learning algorithms. This step ensures that categorical variables can be effectively utilized during model training.
-- Scaling Numerical Data:
-    Numerical columns underwent a scaling process to normalize their values. Scaling is crucial for preventing features with larger scales from dominating the model training process, ensuring fair consideration of all features.
-- Concatenation:
-    The encoded categorical data and scaled numerical data were then combined or concatenated to form a unified dataset. This consolidated dataset serves as the input for subsequent model training, seamlessly integrating both types of features.
+  
+   In orthopedic classification, data splitting involves dividing the dataset into two subsets: a training set and a testing set.
+   The training set is used to train the classification model, while the testing set is used to evaluate its performance.
+   This step ensures that the model is trained on one set of data and evaluated on a separate, unseen set, helping to assess its generalization ability.
+- Min-Max Scaling:
+  
+  Min-Max scaling is applied to these numerical features to transform their values to a fixed range, typically between 0 and 1.
+  This scaling method is important because different features may have different scales, and some algorithms might be sensitive to the scale of the features.
+  By scaling the features to a common range, we prevent features with larger scales from dominating the learning process, leading to more stable and accurate classification models.
   
 ###**Model Training:**
 
 During the model training phase for orthopedic classification, various machine learning algorithms were employed to develop predictive models. Each algorithm brings its unique strengths and characteristics to the task. Here's an overview of the models used
-      
+
+- Logistic Regression Classifier: Models the probability that a given instance belongs to a particular class based on its features. It calculates the likelihood using the logistic function and learns the 
+      coefficients of the features during training to make predictions.     
 - Decision Tree Classification:
     Decision Tree Classification involves constructing a tree-based model during the training phase, enabling the algorithm to learn decision rules from orthopedic data.
 - RandomForestClassifier:
