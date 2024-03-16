@@ -3,7 +3,7 @@
 
 **Video Demonstration for orthopedic classification**
 
-https://github.com/preethineelakandan/Machine-learning-project/assets/144642796/7021b129-9d9f-40cb-8b98-187281b1dddb
+https://github.com/preethineelakandan/Orthopedic-Classification-with-Machine-Learning/assets/144642796/de2a45a4-0f13-4c46-8ae4-06cee32649c1
 
 
 
